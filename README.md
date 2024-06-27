@@ -1,9 +1,9 @@
 ### Olá, Me chamo Henrique Ferreira Pereira!
 
 - 👝 Hoje estou trabalhando com Desenvolvimento Front-End
-- 📓 Estou aprendendo Frameworks.
+- 📓 Estou aprendendo Desenvolvimento Mobile com React Native.
 - 📧 Contate-me no email: henriqueferreira0320@gmail.com
-- 
+  
 <div align="center">
   <a href="https://github.com/euhenriqueferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euhenriqueferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
