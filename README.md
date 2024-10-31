@@ -1,7 +1,7 @@
 ### Olá, Me chamo Henrique Ferreira Pereira!
 
 - 👝 Hoje estou trabalhando com Desenvolvimento Front-End
-- 📓 Estou aprendendo Typescript.
+- 📓 Estou estudando Back-End.
 - 📧 Contate-me no email: henriqueferreira0320@gmail.com
   
 <div align="center">
