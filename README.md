@@ -1,7 +1,7 @@
 ### Olá, Me chamo Henrique Ferreira Pereira!
 
 - 👝 Hoje estou trabalhando com Desenvolvimento Front-End
-- 📓 Estou estudando Back-End.
+- 📓 Estou estudando Laravel e explorando libs CSS para produtividade, como Tailwind e DaisyUI.
 - 📧 Contate-me no email: henriqueferreira0320@gmail.com
   
 <div align="center">
